@@ -12,5 +12,8 @@
     "express": "^4.16.4",
     "morgan": "^1.9.1",
     "static-favicon": "~1.0.0"
+  },
+  "engines": {
+    "node": "8.x"
   }
 }
